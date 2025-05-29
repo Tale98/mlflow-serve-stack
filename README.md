@@ -36,7 +36,7 @@ Just clone, configure .env, and spin up your entire ML platform.
 ## Quickstart
   1. Clone the Repository
   ```bash
-  git clone <your-repo-url>
+  git clone https://github.com/Tale98/mlflow-serve-stack
   cd mlflow-serve-stack
   ```
   2. Prepare Environment Variables
