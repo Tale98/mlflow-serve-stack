@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+mlflow
+scikit-learn
+pandas
+boto3
+python-multipart
+psycopg2-binary
+sqlalchemy
+sqlmodel
+bcrypt==3.2.2
+python-jose
+passlib
+pydantic[email]

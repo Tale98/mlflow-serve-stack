@@ -1,0 +1,8 @@
+venv
+postgres_data
+pgadmin_data
+minio_data
+*__pycache__
+.env
+.credentials
+.DS_Store
